@@ -30,5 +30,5 @@ This project uses machine learning to classify SMS messages as spam or not spam.
 
 ## Demo
 
-![Not Spam](/readme_images/not_spam_demo.png)
-![Spam Image](/readme_images/spam_demo.png)
+![Not Spam](readme_images/not_spam_demo.png)
+![Spam Image](readme_images/spam_demo.png)
